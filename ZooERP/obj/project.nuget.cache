@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LgR0GB9hFHIGOvbuXOyYP+4Si8XBN0ubJDwA8mhUDqQL/PUlrkVT80Uxl1pvvW2pf8WkRNkTe3js+treL63dKQ==",
+  "success": true,
+  "projectFilePath": "/Users/ruslanfarahov/RiderProjects/ZooERP/ZooERP/ZooERP.csproj",
+  "expectedPackageFiles": [
+    "/Users/ruslanfarahov/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.2/microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "/Users/ruslanfarahov/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
